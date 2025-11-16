@@ -10,10 +10,8 @@ This project focuses on clean design, fast performance, and pixel-perfect respon
 ## 📸 Preview
 
 ![image alt](https://github.com/tanvirjem2/G3-Architects-2.0/blob/7514c63d73da6b0c123976113f01feefc829f4ad/G3_Architects_1.png)
-![image alt](https://github.com/tanvirjem2/G3-Architects-2.0/blob/7514c63d73da6b0c123976113f01feefc829f4ad/G3_Architects_2.png)
 ![image alt](https://github.com/tanvirjem2/G3-Architects-2.0/blob/7514c63d73da6b0c123976113f01feefc829f4ad/G3_Architects_3.png)
 ![image alt](https://github.com/tanvirjem2/G3-Architects-2.0/blob/7514c63d73da6b0c123976113f01feefc829f4ad/G3_Architects_4.png)
-![image alt](https://github.com/tanvirjem2/G3-Architects-2.0/blob/7514c63d73da6b0c123976113f01feefc829f4ad/G3_Architects_5.png)
 ![image alt](https://github.com/tanvirjem2/G3-Architects-2.0/blob/7514c63d73da6b0c123976113f01feefc829f4ad/G3_Architects_6.png)
 
 ---
