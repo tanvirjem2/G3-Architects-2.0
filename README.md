@@ -33,24 +33,6 @@ This project focuses on clean design, fast performance, and pixel-perfect respon
 
 ---
 
-## 📁 Folder Structure
-
-G3_ARCHITECTS/
-│
-├── images/
-│ ├── icons/       # Only small icons like customers, email, projects, ribon
-│ ├── sponsors/    # Sponsor logos like amazon, google, figma, spotify, telerama
-│ ├── team/        # team1.png, team2.png, team3.png, team4.png
-│ ├── architect.png
-│ └── banner.png
-│
-├── screenshots/   # G3_Architects_1.png to G3_Architects_6.png
-│
-├── styles/
-│ └── architects.css
-│
-└── index.html
-
 ## ⭐ Support the Project
 
 If you like this project, please consider giving it a **⭐ on GitHub** — your support helps a lot!
